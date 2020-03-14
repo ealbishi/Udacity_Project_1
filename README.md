@@ -39,5 +39,5 @@ The main findings of the code can be found [here](https://medium.com/@EssamAlbis
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
-[https://www.kaggle.com/airbnb/boston
+https://www.kaggle.com/airbnb/boston
 
