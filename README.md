@@ -34,7 +34,7 @@ To complete this project, you will use Jupyter Notebooks through a workspace in 
 
 <a id='Results'></a>
 # Results:
-The main findings of the code can be found [here](https://medium.com/@farah.sidina/what-is-the-interesting-outcomes-from-fbi-gun-data-474f6e08f8d8).
+The main findings of the code can be found [here](https://medium.com/@EssamAlbishi/sharing-some-outcomes-of-analyzing-airbnb-data-21ffdb160707).
 
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
